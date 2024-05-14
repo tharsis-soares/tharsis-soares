@@ -1,63 +1,33 @@
-# Tharsis Soares, engenheiro de software em evolução... 👋
+<h1 align="center">Hi 👋, I'm Tharsis Soares</h1>
+<h3 align="center">A passionate fullstack developer from Brasil</h3>
 
-![Dino](https://raw.githubusercontent.com/tharsis-soares/tharsis-soares/main/dino.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharsis-soares&label=Profile%20views&color=0e75b6&style=flat" alt="tharsis-soares" /> </p>
 
-<!--
-**tharsis-soares/tharsis-soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharsis-soares" alt="tharsis-soares" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Finance Manager Web App**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python, Rust, Solidity**
 
-<!--(Foto de <a href="https://unsplash.com/pt-br/@moritz_photography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Moritz Kindler</a> na <a href="https://unsplash.com/pt-br/fotografias/G66K_ERZRhM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  )-->
+- 👯 I’m looking to collaborate on **Blockchain Open Source**
 
-  
-<!--
-[![MastHead](https://raw.githubusercontent.com/praveenscience/praveenscience/master/mast.png)](https://praveen.science)
+- 👨‍💻 All of my projects are available at [www.reefsys.com.br](www.reefsys.com.br)
 
-# Hello there! 👋🏻 I am Praveen Kumar! <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
+- 💬 Ask me about **React, Angular, NextJS, NodeJS**
 
-I am Praveen Kumar 🙋🏻‍♂️, a Cook, Cat Lover, Front End Architect, Web Developer Evangelist & Cloud Computing Consultant.
+- 📫 How to reach me **tharsissoares@hotmail.com**
 
-I am a React JS Specialist, a Blockchain Enthusiast, an Author of tech books, a Speaker, a FullStack JavaScript Developer and I hold the top 0.05% Overall position in Stack Overflow.
+- ⚡ Fun fact **I love developer anything**
 
-### Check out my latest Live Streams on my [YouTube Channel](https://www.youtube.com/praveenscience?sub_confirmation=1). Here are some of my active projects:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[![Praveen's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveenscience)](https://git.io/J1Ycx)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
-|-------------|-------------------|---|---|
-| [**DevTernShip**](https://github.com/praveenscience/Internship-LMS-FrontEnd) | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Internship-LMS-FrontEnd?color=green&logo=github&style=flat)](https://github.com/praveenscience/Internship-LMS-FrontEnd/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Internship-LMS-FrontEnd?style=flat&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Internship-LMS-FrontEnd?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Internship-LMS-FrontEnd/pulls?q=is%3Apr+is%3Aclosed)  |
-| [**Hacktoberfest-Project-Ideas**](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/) | [![GitHub issues](https://img.shields.io/github/issues/praveenscience/Hacktoberfest-Project-Ideas?color=green&logo=github&style=flat)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/praveenscience/Hacktoberfest-Project-Ideas?style=flat&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/praveenscience/Hacktoberfest-Project-Ideas?style=flat&color=critical&logo=github)](https://github.com/praveenscience/Hacktoberfest-Project-Ideas/pulls?q=is%3Apr+is%3Aclosed)   |
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharsis-soares&show_icons=true&locale=en&layout=compact" alt="tharsis-soares" /></p>
 
-## Connect with Me 🤝🏻
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharsis-soares&show_icons=true&locale=en" alt="tharsis-soares" /></p>
 
-[![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) [![Blog](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/bl.svg)](https://blog.praveen.science/) [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/praveentech/) [![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/praveenscience) [![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://youtube.com/praveenscience) [![Stack Overflow](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/so.svg)](https://stackoverflow.com/users/462627/praveen-kumar-purushothaman) [![Stack Exchange](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/se.svg)](https://stackexchange.com/users/210807/praveen-kumar) [![Microsoft MVP](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ms.svg)](https://mvp.microsoft.com/en-us/PublicProfile/5001822) [![GitHub](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gh.svg)](https://github.com/praveenscience) [![GitLab](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/gl.svg)](https://gitlab.com/praveenscience) [![PayPal](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/pp.svg)](https://www.paypal.me/PraveenKumar) [![HackerNews](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/hn.svg)](https://news.ycombinator.com/user?id=praveenscience) [![Reddit](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/r.svg)](https://reddit.com/u/praveenscience/) [![Facebook](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/fb.svg)](https://www.facebook.com/praveenscience) [![Instagram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ig.svg)](https://instagram.com/praveenscience) [![HackHands](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/hh.svg)](http://web.archive.org/web/20190116000030if_/https://hackhands.com/praveen/) [![Telegram](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tg.svg)](https://t.me/praveenscience) [![WhatsApp](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/wa.svg)](https://wa.me/)
-
-### My Badges
-
-[![@praveen's Holopin board](https://holopin.me/praveen)](https://holopin.io/@praveen)
-
-### Dino <img src="https://i.imgur.com/2AGajNs.png" alt="Chrome Dino" width="24" />
-
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-| ![Praveen GitHub Statistics](https://github-readme-stats.vercel.app/api?username=praveenscience&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenscience) |
-| --- | --- |
-| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=praveenscience) | If you like what I do, support me by buying me a [pizza](https://www.buymeacoffee.com/praveenscience) and let's do more useful content! <img src="https://i.imgur.com/T31KN5a.png" alt="Look next line." height="24" /><br /><br /> <a href="https://www.buymeacoffee.com/praveenscience" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-white.png" alt="Buy Me A Pizza" width="120" /></a> |
-
-![Trophies 🏆](https://github-profile-trophy.vercel.app/?username=praveenscience)
-
-Watch my contribution graph being eaten by a Snake! 🐍
-
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tharsis-soares&" alt="tharsis-soares" /></p>
