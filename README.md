@@ -10,7 +10,7 @@
 ```
 
 # Tharsis Soares
-### ☕ Java Backend Engineer · Brasil
+### ☕ Fullstack Backend Engineer · Brasil
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tharsis-soares&label=Profile%20views&color=e85d04&style=for-the-badge)](https://github.com/tharsis-soares)
 
